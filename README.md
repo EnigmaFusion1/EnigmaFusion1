@@ -29,7 +29,7 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="EnigmaFusion's Github Stats" src="https://github-readme-stats-nu-swart.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+  <img align="left" alt="EnigmaFusion's Github Stats" src="https://github-readme-stats-nu-swart.vercel.app/api?username=Enigmafusion1&show_icons=true&hide_border=true" />
 
 </details>
 
