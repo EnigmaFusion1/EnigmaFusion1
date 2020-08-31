@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning Game Development.
 
 ### Spotify Playing 🎧
-[<img src="https://novatorem-sandy-nine.vercel.app/api/spotify-playing" alt="EnigmaFusion Spotify Playing" width="350" />](https://open.spotify.com/user/yusafwalayat)
+[<img src="https://novatorem.enigmafusion1.vercel.app/api/spotify-playing" alt="EnigmaFusion Spotify Playing" width="350" />](https://open.spotify.com/user/yusafwalayat)
 
 
 
