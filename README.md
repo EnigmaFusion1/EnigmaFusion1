@@ -5,6 +5,8 @@
 
 - 🔭 I’m currently working on learning anything I can!
 - 🌱 I’m currently learning Game Development.
+
+Currently Fluent in these languages and programs.
 <p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/></p>
 
 ### Spotify Status
