@@ -9,16 +9,8 @@
 Currently Fluent in these languages and programs.
 <p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/></p>
 
-<table width="100%"> 
-  <tr>
-  <td width="50%">
-      
-&nbsp; <br> [![Spotify](https://novatorem.enigmafusion1.vercel.app/api/spotify)](https://open.spotify.com/user/omnitenebris)
 
-  </td>
-  <td width="50%">
-  </td>
-  </table>
+&nbsp; <br> [![Spotify](https://novatorem.enigmafusion1.vercel.app/api/spotify)](https://open.spotify.com/user/omnitenebris)
 
 [//]: <> (The `&nbsp;` is to have Aphelion take up more space)
 
