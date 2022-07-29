@@ -8,11 +8,3 @@ Spotify Status
 
 [//]: <> (The `&nbsp;` is to have Aphelion take up more space)
 
-
-<details>
-  <summary>:zap: Github Stats</summary>
-
-  <img align="left" alt="EnigmaFusion's Github Stats" src="https://github-readme-stats-nu-swart.vercel.app/api?username=Enigmafusion1&show_icons=true&hide_border=true" />
-
-</details>
-
