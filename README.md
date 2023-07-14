@@ -5,7 +5,7 @@ Blender. Photoshop. Illustrator. Unity. Substance Painter.
 
 still stuck in java while learning some cpp.
 
-Modeling, creating games, and losing my braincells in university classes.
+Modeling, creating games, and losing my braincells in university.
 
 What I'm listening to...
 &nbsp; <br> [![Spotify](https://novatorem.enigmafusion1.vercel.app/api/spotify)](https://open.spotify.com/user/yusafwalayat)
