@@ -1,7 +1,11 @@
-## I'm a Student in High School.
+Hi, it's me. This is my profile. 
+What do I do? Depends on who you ask. Either nothing or everything.
 
-- I’m currently learning Game Development and Computer Science.
-- I'm working on learning Lua, Java, and C++. 
+Blender. Photoshop. Illustrator. Unity. Substance Painter. 
+
+still stuck in java while learning some cpp.
+
+Modeling, creating games, and losing my braincells in university classes.
 
 Spotify Status
 &nbsp; <br> [![Spotify](https://novatorem.enigmafusion1.vercel.app/api/spotify)](https://open.spotify.com/user/yusafwalayat)
