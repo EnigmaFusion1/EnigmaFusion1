@@ -3,7 +3,8 @@ What do I do? Depends on who you ask. Either nothing or everything.
 
 Blender. Photoshop. Illustrator. Unity. Substance Painter. 
 
-still stuck in java while learning some cpp.
+still stuck in java while learning some cpp with webgl/opengl projects. 
+can you see them? no.
 
 Modeling, creating games, and losing my braincells in university.
 
