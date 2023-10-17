@@ -1,11 +1,11 @@
 Hi, it's me. This is my profile. 
 What do I do? Depends on who you ask. Either nothing or everything.
 
-Blender. Photoshop. Illustrator. Unity. Substance Painter. 
+Blender. Photoshop. Illustrator. Unity. Substance Painter.
 
-still stuck in java while learning some cpp with webgl/opengl projects. 
+java while learning some cpp with webgl/opengl projects. 
 can you see them? no.
-
+learning about the McCumber Cube
 Modeling, creating games, and losing my braincells in university.
 
 What I'm listening to...
